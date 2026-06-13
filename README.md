@@ -1,201 +1,208 @@
-<!-- 
-  ═══════════════════════════════════════════════════
-  SETUP INSTRUCTIONS:
-  1. Create a repo named exactly: tajkamal (your GitHub username)
-  2. Inside it, create an "assets" folder
-  3. Upload PassportSize.jpg → assets/passport.jpg
-  4. Upload second.jpeg     → assets/chair.jpg
-  5. Paste this README.md content
-  ═══════════════════════════════════════════════════
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:00d9ff&height=200&section=header&text=Gagguturu%20Taj%20Kamal&fontSize=42&fontColor=00d9ff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CTF%20Competitor&descSize=15&descAlignY=58&descFontColor=ffffff" width="100%"/>
+# Gagguturu Taj Kamal
 
-<br/>
+### Cybersecurity Engineer · Full-Stack Developer · Ethical Hacker
 
-<!-- Passport Photo with glow -->
-<img src="https://github.com/tajkamal/tajkamal/raw/main/assets/passport.jpg"
-     width="160" height="160"
-     style="border-radius:50%; border:4px solid #00d9ff;"
-     alt="Taj Kamal"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=🔐+Web+App+VAPT+%26+Penetration+Tester;💻+MERN+Stack+Full-Stack+Developer;🏆+35th+Rank+@+REDFOX+CTF+2026+(National);🛡️+Cisco+Certified+Ethical+Hacker;🤖+AI+Security+%26+Digital+Forensics)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taj-kamal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tajkamal-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagguturutajkamal0@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=tajkamal&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taj--kamal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taj-kamal/)
+[![Email](https://img.shields.io/badge/Email-gagguturutajkamal06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gagguturutajkamal06@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Kadapa%2C%20Andhra%20Pradesh-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Kadapa,+Andhra+Pradesh)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square)](mailto:gagguturutajkamal06@gmail.com)
 
 </div>
 
 ---
 
-## 🖥️ `$ whoami`
+## About Me
+
+Cybersecurity Engineering student with a passion for **Web Application VAPT**, ethical hacking, and full-stack development — actively competing at the national level and earning recognition through hackathons and CTF competitions.
+
+My journey spans both classical and modern web stacks — from PHP, Angular, and XAMPP environments to the MERN ecosystem (MongoDB, Express, React, Node). At **GND Solutions, Bengaluru**, I led a team as **Team Leader** and was awarded the **Rising Star Award** for outstanding performance during my MERN Stack internship.
+
+Today, I channel that engineering depth into security research — combining the mindset of a developer with the precision of a penetration tester to build, break, and fortify digital systems.
+
+> 📍 Kadapa, Andhra Pradesh &nbsp;|&nbsp; 📞 +91 7995119306 &nbsp;|&nbsp; 🎓 CGPA 8.83
+
+---
+
+## 🛠️ Skills & Toolkit
+
+### 🔐 Cybersecurity
+`VAPT` `Ethical Hacking` `Network Security` `Digital Forensics` `SOC` `API Testing` `Mobile Testing` `AI & IoT Security`
+
+### 🧰 Security Tools
+`Burp Suite` `Nmap` `Wireshark` `John the Ripper` `ExifTool` `Kali Linux`
+
+### 💻 Languages & Web
+`Python` `Java` `SQL` `JavaScript` `HTML` `CSS`
+
+### 🌐 Full-Stack Development
+`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `Angular` `PHP`
+
+---
+
+## 🚀 Portfolio — Built With
+
+This portfolio site is built with a modern, production-grade React stack:
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+### Getting Started
 
 ```bash
-┌──(tajkamal㉿kali)-[~]
-└─$ cat profile.json
+# Clone the repository
+git clone https://github.com/<your-username>/tajkamal-portfolio.git
+cd tajkamal-portfolio
 
-  Name     : Gagguturu Taj Kamal
-  Role     : Cybersecurity Engineer & Full-Stack Developer
-  Degree   : B.Tech CSE (Cyber Security) — MITS | CGPA: 8.83
-  Focus    : VAPT | Ethical Hacking | MERN Stack | CTF
-  Location : Kadapa, Andhra Pradesh, India
-  Status   : [ACTIVE] — Building, Breaking, Securing
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview the production build
+npm run preview
 ```
-
----
-
-## 🧠 About Me
-
-<img align="right" src="https://github.com/tajkamal/tajkamal/raw/main/assets/chair.jpg" width="280" alt="Taj Kamal Gaming Chair"/>
-
-- 🎓 **B.Tech CSE (Cyber Security)** @ MITS | CGPA: **8.83**
-- 🔐 Specialist in **Web App VAPT, Ethical Hacking & Network Security**
-- 💻 Full-Stack Developer — **MERN Stack** (Team Leader experience)
-- 🏆 **35th Rank** @ REDFOX CTF 2026 (National-Level)
-- 🥈 **Runner-Up** @ SPARC 2026 Signal Processing Virtual CTF
-- 🤖 Built **AI Luggage Detection System** using YOLO
-- 🛡️ Cisco Certified **Ethical Hacker**
-- 🌐 Portfolio: [tajkamal-portfolio.vercel.app](https://tajkamal-portfolio.vercel.app)
-
-<br clear="right"/>
-
----
-
-## 🛡️ Cybersecurity Arsenal
-
-<div align="center">
-
-| Domain | Expertise |
-|:---|:---|
-| 🔍 **Web App VAPT** | Burp Suite, OWASP Top 10, API Testing |
-| 🕵️ **Digital Forensics** | ExifTool, Wireshark, Log Analysis |
-| 📡 **Network Security** | Nmap, Wireshark, Packet Inspection |
-| 🔑 **Password Analysis** | John the Ripper, Hash Cracking |
-| 🤖 **AI & IoT Security** | YOLO, Custom Detection Scripts |
-| 📱 **Mobile Testing** | App Pentesting, Traffic Interception |
-| 🧪 **CTF** | Web, Crypto, OSINT, Forensics, Pwn |
-| 🛡️ **SOC** | Threat Detection, Incident Response |
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-### Languages
-[![Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql&perline=6)](https://skillicons.dev)
-
-### Full-Stack (MERN)
-[![Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
-
-### Tools & OS
-[![Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,postman&perline=5)](https://skillicons.dev)
-
-### Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tajkamal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajkamal&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tajkamal&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tajkamal&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true"/>
-</div>
-
----
-
-## 🏆 Hall of Fame
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                         🏅 ACHIEVEMENTS                             │
-├────────────────────────────────────────────────────────────────────┤
-│  🥇  1st Prize   — Dept. Cybersecurity Hackathon, MITS             │
-│  🥈  Runner-Up   — SPARC 2026 Signal Processing Virtual CTF        │
-│  🎯  35th Rank   — REDFOX CTF 2026 (National-Level)               │
-│  ⭐  Rising Star — GND Solutions India Pvt. Ltd., Bengaluru        │
-│  🏆  Winner      — Supraja Technologies Hackathons (Level 1–6)    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tajkamal&theme=algolia&no-frame=true&row=1&column=7)
-
-</div>
 
 ---
 
 ## 💼 Experience
 
-**🔷 MERN Stack Development Intern — Team Leader**  
-📍 *GND Solutions India Pvt. Ltd., Bengaluru* · `Nov 2023 – May 2024`  
-> Led a dev team delivering full-stack features with MERN. Earned the ⭐ **Rising Star Award**.
+### MERN Stack Development Intern · Team Leader
+**GND Solutions India Pvt. Ltd., Bengaluru** &nbsp;|&nbsp; *Nov 2023 – May 2024*
 
-**🔷 Cybersecurity & Networking Virtual Intern**  
-📍 *Cisco Networking Academy* · `Jun 2025 – Aug 2025`  
-> Hands-on labs in network security, threat detection, and cybersecurity fundamentals.
+- Led development team delivering full-stack web application features using MongoDB, Express, React, and Node.
+- Built RESTful APIs and responsive UI components shipped to production.
+- 🏆 Awarded **Rising Star Award** for outstanding team performance and leadership.
+
+### Cybersecurity & Networking Virtual Intern
+**Cisco Networking Academy** &nbsp;|&nbsp; *Jun 2025 – Aug 2025*
+
+- Completed hands-on labs in network security, threat detection, and cybersecurity fundamentals.
+- Configured firewalls, VLANs, and network monitoring tools in simulated enterprise environments.
 
 ---
 
-## 📌 Projects
+## 🏗️ Featured Projects
 
-**🤖 AI Luggage Detection System** `Python · YOLO`  
-Built an AI object detection system to identify items in luggage scans for security screening.
+### 1. 🤖 AI Luggage Detection System
+AI-based object detection system identifying items in luggage scans using YOLO. Trained and fine-tuned models through dataset augmentation to improve accuracy.
 
-**📝 MERN Stack Blogger Application** `MongoDB · Express.js · React.js · Node.js`  
-Full-stack blogging platform with JWT auth, RBAC, and rich text editor. Led team at GND Solutions.
+**Tech:** `Python` `YOLO` `Computer Vision` `Machine Learning`
+
+---
+
+### 2. 📝 MERN Stack Blogger Application
+Full-stack blogging platform with user authentication, role-based access control, and RESTful APIs. Responsive UI built with React.js and Express backend.
+
+**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+### 3. 🔍 Vulnerability Assessment Reports
+Hands-on Web Application VAPT engagements documenting identified vulnerabilities, exploitation paths, and remediation strategies using industry-standard tools.
+
+**Tech:** `Burp Suite` `Nmap` `VAPT` `OWASP`
+
+---
+
+## 🎓 Education
+
+| Degree | Field | Institution | Result |
+|--------|-------|-------------|--------|
+| **B.Tech** *(Current)* | Cyber Security | Madanapalle Institute of Technology and Science | CGPA: **8.83** · 2024–2027 |
+| **Diploma** | Computer Engineering | Loyola Polytechnic, Pulivendula | **87.82%** · 2021–2024 |
+| **SSC** | 10th Grade | ZPHS Boys High School, Yerraguntla | CGPA: **9.3** |
+
+---
+
+## 🏆 Achievements & CTF Competitions
+
+| # | Achievement |
+|---|-------------|
+| 🥇 | **35th Rank** — REDFOX CTF 2026 *(National)* |
+| 🥇 | **Top 41** — DarkCTF 2026 |
+| 🌐 | **Qualified** — NovrozCTF 2026 *(International)* |
+| 🥈 | **2nd Place** — SPARC 2026 Signal Processing CTF |
+| 🏅 | **1st Prize** — Cybersecurity Hackathon, MITS |
+| 🏅 | **Winner** — Supraja Tech Hackathons *(Level 1–6)* |
+| ⭐ | **Rising Star Award** — GND Solutions, Bengaluru |
 
 ---
 
 ## 📜 Certifications
 
-| 🏅 | Certification | Issuer |
-|:--:|:-------------|:------:|
-| 🔒 | Ethical Hacker | **Cisco** |
-| 🌐 | Front End Development | **Reliance Foundation** |
-| 🛡️ | Cybersecurity Fundamentals | **IBM SkillsBuild** |
-| ☁️ | Prompt Design in Vertex AI | **Google Cloud** |
-| 🗃️ | Database Management Essential | **Udemy** |
-| 💻 | Python · Java · SQL · Problem Solving | **HackerRank** |
+| Certification | Issuer |
+|---------------|--------|
+| Google Cloud Security | Google Cloud |
+| Ethical Hacker Certification | Cisco |
+| Cybersecurity Certification | Tech Mahindra Foundation |
+| Front End Development | Reliance Foundation |
+| Cybersecurity Fundamentals | IBM SkillsBuild |
+| Prompt Design in Vertex AI | Google Cloud |
+| Database Management Essentials | Udemy |
+| Python · Java · SQL · Problem Solving | HackerRank |
+
+---
+
+## 📁 Project Structure
+
+```
+tajkamal-portfolio/
+├── public/
+│   ├── Taj_Resume.pdf          # Downloadable resume
+│   └── favicon.svg
+├── src/
+│   ├── assets/                 # Images & static assets
+│   ├── components/
+│   │   ├── portfolio/          # Section components
+│   │   │   ├── Hero.tsx
+│   │   │   ├── About.tsx
+│   │   │   ├── Skills.tsx
+│   │   │   ├── Projects.tsx
+│   │   │   ├── Experience.tsx
+│   │   │   ├── Certifications.tsx
+│   │   │   ├── Contact.tsx
+│   │   │   ├── Navbar.tsx
+│   │   │   └── Terminal.tsx
+│   │   └── ui/                 # shadcn/ui components
+│   ├── hooks/                  # Custom React hooks
+│   ├── pages/                  # Route pages
+│   ├── lib/                    # Utility functions
+│   └── App.tsx
+├── tailwind.config.ts
+├── vite.config.ts
+└── package.json
+```
+
+---
+
+## 📬 Get In Touch
+
+Open to **internships**, **freelance security audits**, and **full-stack collaborations**. I usually reply within 24 hours.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taj-kamal/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:gagguturutajkamal06@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Connect & Collaborate
+*"Building secure systems with a developer's mindset."*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taj-kamal)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tajkamal-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagguturutajkamal0@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a1628,100:000000&height=120&section=footer"/>
+**© 2026 Gagguturu Taj Kamal · Kadapa, India**
 
 </div>
