@@ -80,16 +80,6 @@ Hands-on Web Application VAPT engagements documenting identified vulnerabilities
 
 ---
 
-## 🎓 Education
-
-| Degree | Field | Institution | Result |
-|--------|-------|-------------|--------|
-| **B.Tech** *(Current)* | Cyber Security | Madanapalle Institute of Technology and Science | CGPA: **8.83** · 2024–2027 |
-| **Diploma** | Computer Engineering | Loyola Polytechnic, Pulivendula | **87.82%** · 2021–2024 |
-| **SSC** | 10th Grade | ZPHS Boys High School, Yerraguntla | CGPA: **9.3** |
-
----
-
 ## 🏆 Achievements & CTF Competitions
 
 | # | Achievement |
