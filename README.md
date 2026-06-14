@@ -21,8 +21,6 @@ My journey spans both classical and modern web stacks — from PHP, Angular, and
 
 Today, I channel that engineering depth into security research — combining the mindset of a developer with the precision of a penetration tester to build, break, and fortify digital systems.
 
-> 📍 Kadapa, Andhra Pradesh &nbsp;|&nbsp; 📞 +91 7995119306 &nbsp;|&nbsp; 🎓 CGPA 8.83
-
 ---
 
 ## 🛠️ Skills & Toolkit
