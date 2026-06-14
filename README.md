@@ -41,39 +41,6 @@ Today, I channel that engineering depth into security research — combining the
 
 ---
 
-## 🚀 Portfolio — Built With
-
-This portfolio site is built with a modern, production-grade React stack:
-
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-
-### Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/tajkamal-portfolio.git
-cd tajkamal-portfolio
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Preview the production build
-npm run preview
-```
-
----
 
 ## 💼 Experience
 
@@ -151,40 +118,6 @@ Hands-on Web Application VAPT engagements documenting identified vulnerabilities
 | Prompt Design in Vertex AI | Google Cloud |
 | Database Management Essentials | Udemy |
 | Python · Java · SQL · Problem Solving | HackerRank |
-
----
-
-## 📁 Project Structure
-
-```
-tajkamal-portfolio/
-├── public/
-│   ├── Taj_Resume.pdf          # Downloadable resume
-│   └── favicon.svg
-├── src/
-│   ├── assets/                 # Images & static assets
-│   ├── components/
-│   │   ├── portfolio/          # Section components
-│   │   │   ├── Hero.tsx
-│   │   │   ├── About.tsx
-│   │   │   ├── Skills.tsx
-│   │   │   ├── Projects.tsx
-│   │   │   ├── Experience.tsx
-│   │   │   ├── Certifications.tsx
-│   │   │   ├── Contact.tsx
-│   │   │   ├── Navbar.tsx
-│   │   │   └── Terminal.tsx
-│   │   └── ui/                 # shadcn/ui components
-│   ├── hooks/                  # Custom React hooks
-│   ├── pages/                  # Route pages
-│   ├── lib/                    # Utility functions
-│   └── App.tsx
-├── tailwind.config.ts
-├── vite.config.ts
-└── package.json
-```
-
----
 
 ## 📬 Get In Touch
 
