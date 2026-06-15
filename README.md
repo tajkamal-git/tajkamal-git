@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taj--kamal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taj-kamal/)
 [![Email](https://img.shields.io/badge/Email-gagguturutajkamal06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gagguturutajkamal06@gmail.com)
-[![Location](https://img.shields.io/badge/Location-2C%20Andhra%20Pradesh-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Andhra+Pradesh)
+[![Location](https://img.shields.io/badge/Location-%20Andhra%20Pradesh-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Andhra+Pradesh)
 [![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square)](mailto:gagguturutajkamal06@gmail.com)
 
 </div>
