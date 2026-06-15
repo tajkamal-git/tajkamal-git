@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taj--kamal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taj-kamal/)
 [![Email](https://img.shields.io/badge/Email-gagguturutajkamal06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gagguturutajkamal06@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Kadapa%2C%20Andhra%20Pradesh-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Kadapa,+Andhra+Pradesh)
+[![Location](https://img.shields.io/badge/Location-2C%20Andhra%20Pradesh-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Andhra+Pradesh)
 [![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square)](mailto:gagguturutajkamal06@gmail.com)
 
 </div>
@@ -39,23 +39,6 @@ Today, I channel that engineering depth into security research — combining the
 
 ---
 
-
-## 💼 Experience
-
-### MERN Stack Development Intern · Team Leader
-**GND Solutions India Pvt. Ltd., Bengaluru** &nbsp;|&nbsp; *Nov 2023 – May 2024*
-
-- Led development team delivering full-stack web application features using MongoDB, Express, React, and Node.
-- Built RESTful APIs and responsive UI components shipped to production.
-- 🏆 Awarded **Rising Star Award** for outstanding team performance and leadership.
-
-### Cybersecurity & Networking Virtual Intern
-**Cisco Networking Academy** &nbsp;|&nbsp; *Jun 2025 – Aug 2025*
-
-- Completed hands-on labs in network security, threat detection, and cybersecurity fundamentals.
-- Configured firewalls, VLANs, and network monitoring tools in simulated enterprise environments.
-
----
 
 ## 🏗️ Featured Projects
 
