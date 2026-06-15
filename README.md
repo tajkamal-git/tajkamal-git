@@ -107,6 +107,6 @@ Open to **internships**, **freelance security audits**, and **full-stack collabo
 
 *"Building secure systems with a developer's mindset."*
 
-**© 2026 Gagguturu Taj Kamal · Kadapa, India**
+**© 2026 Gagguturu Taj Kamal · AP, India**
 
 </div>
